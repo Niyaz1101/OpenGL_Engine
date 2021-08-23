@@ -6,4 +6,4 @@ The said engine has and can do the following:-
 * Has basic lighting system(Ambient, Diffuse and Specular)
 * Move in 3D space using WSAD keys and control camera in any axis using mouse.
 
-The Engine in this current state displayes ten cubes with textures applied to them. The player controlled camera emites a spotlight which demonstrates the mapping of texture and how it's "materials" react to the light. 
+The Engine in this current state displays 10 cubes with textures applied to them. The player controlled camera emites a spotlight which demonstrates the mapping of texture and how it's "materials" react to the light. 
