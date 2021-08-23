@@ -8,5 +8,5 @@ The said engine has and can do the following:-
 
 The Engine in this current state displays 10 cubes with textures applied to them. The player controlled camera emites a spotlight which demonstrates the mapping of texture and how it's "materials" react to the light. 
 
-Images for the container textures can be foud in the issues tab under "images". 
-
+Note: Images for the container textures can be foud in the issues tab under "images". 
+ 
